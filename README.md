@@ -1,7 +1,7 @@
 		#  Emergency Room Simulator, university project
 
 	The application simulates an emergency room system.
-	The simulation takes place in rounds
+	The simulation takes place in rounds.
 
 	The project is implemented in Java. In the implementation I have
 	used observer design pattern.
