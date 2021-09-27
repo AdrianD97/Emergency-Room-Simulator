@@ -3,8 +3,8 @@
 	The application simulates an emergency room system.
 	The simulation takes place in rounds.
 
-	The project is implemented in Java. In the implementation I have
-	used observer design pattern.
+	The project is implemented in Java. To implement it, I have
+	used the observer design pattern.
 
 	Program testing is done automatically by running the checker.sh script.
 	The goal of the poo_checks.xml and checkstyle-7.3-all.jar files is to identify
